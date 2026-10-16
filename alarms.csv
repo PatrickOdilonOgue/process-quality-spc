@@ -1,0 +1,102 @@
+machine,subgroup,rule,description
+A,28,1,1 Punkt jenseits 3σ
+B,25,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+B,33,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+B,33,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+B,34,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+B,34,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+B,35,1,1 Punkt jenseits 3σ
+B,35,2,9 Punkte auf einer Seite der Mittellinie
+B,35,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+B,35,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+B,36,1,1 Punkt jenseits 3σ
+B,36,2,9 Punkte auf einer Seite der Mittellinie
+B,36,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+B,36,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+B,37,2,9 Punkte auf einer Seite der Mittellinie
+B,37,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+B,38,1,1 Punkt jenseits 3σ
+B,38,2,9 Punkte auf einer Seite der Mittellinie
+B,38,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+B,38,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+B,38,8,8 Punkte außerhalb 1σ
+B,39,1,1 Punkt jenseits 3σ
+B,39,2,9 Punkte auf einer Seite der Mittellinie
+B,39,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+B,39,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+B,39,8,8 Punkte außerhalb 1σ
+B,40,1,1 Punkt jenseits 3σ
+B,40,2,9 Punkte auf einer Seite der Mittellinie
+B,40,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+B,40,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+B,40,8,8 Punkte außerhalb 1σ
+C,22,1,1 Punkt jenseits 3σ
+C,22,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,23,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,24,1,1 Punkt jenseits 3σ
+C,24,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,24,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,25,1,1 Punkt jenseits 3σ
+C,25,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,25,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,26,1,1 Punkt jenseits 3σ
+C,26,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,26,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,27,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,27,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,27,8,8 Punkte außerhalb 1σ
+C,28,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,28,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,28,8,8 Punkte außerhalb 1σ
+C,29,2,9 Punkte auf einer Seite der Mittellinie
+C,29,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,29,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,29,8,8 Punkte außerhalb 1σ
+C,30,1,1 Punkt jenseits 3σ
+C,30,2,9 Punkte auf einer Seite der Mittellinie
+C,30,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,30,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,30,8,8 Punkte außerhalb 1σ
+C,31,1,1 Punkt jenseits 3σ
+C,31,2,9 Punkte auf einer Seite der Mittellinie
+C,31,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,31,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,31,8,8 Punkte außerhalb 1σ
+C,32,2,9 Punkte auf einer Seite der Mittellinie
+C,32,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,32,8,8 Punkte außerhalb 1σ
+C,33,1,1 Punkt jenseits 3σ
+C,33,2,9 Punkte auf einer Seite der Mittellinie
+C,33,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,33,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,33,8,8 Punkte außerhalb 1σ
+C,34,1,1 Punkt jenseits 3σ
+C,34,2,9 Punkte auf einer Seite der Mittellinie
+C,34,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,34,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,34,8,8 Punkte außerhalb 1σ
+C,35,2,9 Punkte auf einer Seite der Mittellinie
+C,35,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,35,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,35,8,8 Punkte außerhalb 1σ
+C,36,1,1 Punkt jenseits 3σ
+C,36,2,9 Punkte auf einer Seite der Mittellinie
+C,36,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,36,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,36,8,8 Punkte außerhalb 1σ
+C,37,2,9 Punkte auf einer Seite der Mittellinie
+C,37,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,37,8,8 Punkte außerhalb 1σ
+C,38,1,1 Punkt jenseits 3σ
+C,38,2,9 Punkte auf einer Seite der Mittellinie
+C,38,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,38,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,38,8,8 Punkte außerhalb 1σ
+C,39,2,9 Punkte auf einer Seite der Mittellinie
+C,39,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,39,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,39,8,8 Punkte außerhalb 1σ
+C,40,2,9 Punkte auf einer Seite der Mittellinie
+C,40,5,2 von 3 Punkten jenseits 2σ (gleiche Seite)
+C,40,6,4 von 5 Punkten jenseits 1σ (gleiche Seite)
+C,40,8,8 Punkte außerhalb 1σ
